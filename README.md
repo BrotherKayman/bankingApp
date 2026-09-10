@@ -1,1 +1,1 @@
-Banking App React Native App - Skill Refresher Project
+React Native Banking App - Skill Refresher Project
